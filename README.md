@@ -1,4 +1,4 @@
-0pwnage’s Cursed Cydia Repo
+10pwnage’s Cursed Cydia Repo
 add the repo and install the tweaks that are mostly untether by the creators of greenp0ison except cylinder, openssh, and sbsettings — and what i mean by “except” is: please don’t install. install at your own risk, but don’t say i didn’t warn you. if your iphone 4 becomes a hand warmer that’s hotter than the pits of Hell, that’s a skill issue, dingus.
 
 what this repo even is
